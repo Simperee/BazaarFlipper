@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "bazaarflipper",
+    "name": "Simpery's Bazaar Flipper",
+    "description": "Shoutout ceph he a real one :3",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Simpery"
+    ],
+    "credits": "Cephetir",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
